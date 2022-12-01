@@ -1,9 +1,2 @@
 # Jetson-Imaging
-Code for imaging. 
-Please just erase the word "the" from the list:
-
-Hello
-the
-Bye
-
-editted using branch "another"
+Code for imaging object detection
